@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+// Changes from Hexidecimal to Base 64
 public class BaseChanger {
 
         public static void main(String[] args) {
@@ -62,3 +62,4 @@ public class BaseChanger {
 
         }
 }
+
